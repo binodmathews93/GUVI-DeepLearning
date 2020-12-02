@@ -1,2 +1,2 @@
 # GUVI-DeepLearning
-GUVI Deep Learning Course
+Exercises based on content taught in GUVI Deep Learning Course.
